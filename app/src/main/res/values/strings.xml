@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UdemySelectionControls</string>
+
+    <string name="switch_off_on">Switch OFF/ON</string>
+
+    <string name="checkbox">checkbox</string>
+
+    <string name="radio_button">Radio Button</string>
+    <string name="radio_button_1">Radio Button 1</string>
+    <string name="radio_button_2">Radio Button 2</string>
+    <string name="radio_button_3">Radio Button 3</string>
+
+</resources>
